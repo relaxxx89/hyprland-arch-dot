@@ -4,3 +4,5 @@ my dots
 
 
 change video settings in hyprland.conf
+
+install dracula theme for qt and gtk. change themes in nwg-look and qt5ct
